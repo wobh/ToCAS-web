@@ -1,0 +1,19 @@
+#+TITLE:     README Tales of Clark Ashton Smith
+#+AUTHOR:    
+#+EMAIL:     wobh@yahoo.com
+#+DATE:      2013-02-08 Fri
+#+DESCRIPTION: Website with selected stories from Clark Ashton Smith
+#+KEYWORDS:
+#+LANGUAGE:  en
+#+OPTIONS:   H:6 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT:
+
+* Tales of Clark Ashton Smith
+
+Selected tales from Clark Ashton Smith.
