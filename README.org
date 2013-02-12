@@ -18,4 +18,4 @@
 
 Selected tales from Clark Ashton Smith.
 
-http://htmlpreview.github.com/?http://github.com/wobh/ToCAS-web/blob/master/Tales_of_Clark_Ashton_Smith.html
+http://htmlpreview.github.com/?https://github.com/wobh/ToCAS-web/blob/master/Tales_of_Clark_Ashton_Smith.html
