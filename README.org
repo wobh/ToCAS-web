@@ -1,5 +1,5 @@
-#+TITLE:     README Tales of Clark Ashton Smith
-#+AUTHOR:    
+#+TITLE:     Tales of Clark Ashton Smith
+#+AUTHOR:    William Clifford
 #+EMAIL:     wobh@yahoo.com
 #+DATE:      2013-02-08 Fri
 #+DESCRIPTION: Website with selected stories from Clark Ashton Smith
@@ -14,6 +14,8 @@
 #+LINK_HOME: 
 #+XSLT:
 
-* Tales of Clark Ashton Smith
+* README
 
 Selected tales from Clark Ashton Smith.
+
+http://htmlpreview.github.com/?http://github.com/wobh/ToCAS-web/blob/master/Tales_of_Clark_Ashton_Smith.html
