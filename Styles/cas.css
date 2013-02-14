@@ -1,0 +1,117 @@
+/* Stylesheet for Tales of Clark Ashton Smith */
+
+body {
+    background-image: url("../Images/bz-tile-1.png");
+}
+
+article, nav, header {
+    background-color: #000;
+    color: #aaa;
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 1em;
+    width: 42em;
+    box-shadow: 4px 4px 4px #000, -4px -4px 4px #000;
+}
+
+section {
+    margin-top: 3em;
+}
+
+header > h1 { text-align: center; }
+
+hgroup > h2 { font-size: smaller; }
+
+article > p, section > p { 
+    text-align: justify; 
+}
+
+#first-symbol { display: none; }
+
+article > p + p, section > p + p {
+    text-indent: 1.5em;
+}
+
+article > p:first-of-type > q:before, section > p:first-of-type > q:before {
+    content: no-open-quote;
+}
+
+article > p:first-of-type:first-letter, section > p:first-of-type:first-letter {
+    font-size: 1.5em
+/*
+    font-size: 200%;
+    float: left;
+    line-height: 0.5em;
+    padding: -2px 2px 0 0;
+    position: relative;
+    left: -3px;
+    font-weight: bold;
+*/
+}
+
+/* 
+article > p:first-of-type:first-line, section > p:first-of-type:first-line {
+light-height: 1em; 
+} 
+*/
+
+aside.pull-quote-left, aside.pull-quote-right {
+    border: 1px solid #707;
+    background-color: #111;
+    padding: 0.5em;
+    width: 12em;
+    box-shadow: 1px 1px 1px #700, -1px -1px 1px #700;
+}
+
+aside.pull-quote-right {
+    float: right;
+    margin: 0.5em 0em 0.5em 1em;
+    -webkit-border-top-right-radius: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+    -moz-border-radius-topright: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+aside.pull-quote-left {
+    float: left;
+    margin: 0.5em 1em 0.5em 0em;
+    -webkit-border-top-left-radius: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    -moz-border-radius-topleft: 15px;
+    -moz-border-radius-bottomright: 15px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+blockquote.pull-quote {
+    font-size: 125%;
+    font-style: italic;
+    margin: 0em 0em 0em 0.25em;
+}
+
+a:link { 
+    text-decoration: none; 
+    color: #707;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #077;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #770;
+}
+
+a:active {
+    background-color: #777;
+    color: #000;
+}
+
+/*
+ins { text-decoration: none; }
+del { display: none; }
+*/
